@@ -3,7 +3,7 @@
 This project implements the database for any e-commerce application. The design and requirements are based on Amazon's e-commerce website.   
 The database was created from the ground-up, following the traditional process of:
 * Requirements Collection
-  * [Functional Requirements](https://github.com/marymathews/amazon-database-design/blob/master/Project%20Report.pdf)
+  * [Functional Requirements](https://github.com/marymathews/amazon-database-design/blob/master/Requirements.pdf)
 * ER / EER Diagram Creation
   * [EER Diagram](https://github.com/marymathews/amazon-database-design/blob/master/EER%20Diagram.png)
 * Mapping the EER Diagram to a Relational Schema Diagram
